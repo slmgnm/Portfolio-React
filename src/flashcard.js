@@ -18,10 +18,13 @@ const Flashcard = ({ flashcard }) => {
   return (
     <div
       className={`card ${flip ? "flip" : ""}`}
-      onMouseEnter={() => setFlip(!flip)}>
+      onMouseEnter={() => setFlip(!flip)}
+      onMouseLeave={() => setFlip(!flip)}>
       <div className="front">
         <img src={flashcard.imgUrl} alt="sdfsdfsdf" />
-        <div> <h3>{flashcard.title}</h3> </div>
+        <div>
+          <h3>{flashcard.title}</h3>{" "}
+        </div>
       </div>
       <div className="back">
         {flashcard.description}

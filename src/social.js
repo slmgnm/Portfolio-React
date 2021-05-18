@@ -8,13 +8,13 @@ import {
 
 export default function SocialFlow() {
   return (
-    <div>
+    <div className="social-div">
       <p className="social-container">
         <a
           href="https://www.instagram.com/slmgnm/"
           target="_blank"
           className="instagram social">
-          <FontAwesomeIcon icon={faInstagram} size="xs" />
+          <FontAwesomeIcon icon={faInstagram} size="xs"  />
         </a>
         <a
           href="https://github.com/slmgnm"
