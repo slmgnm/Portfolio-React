@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.79dbbe42.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.b3b814db.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.b3b814db.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.b12e5184.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.b12e5184.js.map",
+    "static/js/2.facfe838.chunk.js": "/Portfolio-React/static/js/2.facfe838.chunk.js",
+    "static/js/2.facfe838.chunk.js.map": "/Portfolio-React/static/js/2.facfe838.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/main.79dbbe42.chunk.css.map": "/Portfolio-React/static/css/main.79dbbe42.chunk.css.map",
+    "static/js/2.facfe838.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.facfe838.chunk.js.LICENSE.txt",
+    "static/media/CV.11bec3fe.pdf": "/Portfolio-React/static/media/CV.11bec3fe.pdf",
+    "static/media/Events.056f74ef.png": "/Portfolio-React/static/media/Events.056f74ef.png",
+    "static/media/FreshAutoPesu.a6e04d2a.png": "/Portfolio-React/static/media/FreshAutoPesu.a6e04d2a.png",
+    "static/media/colors.fd6ca94a.png": "/Portfolio-React/static/media/colors.fd6ca94a.png",
+    "static/media/expU.e77f0e91.png": "/Portfolio-React/static/media/expU.e77f0e91.png",
+    "static/media/fJoy.06214f9e.png": "/Portfolio-React/static/media/fJoy.06214f9e.png",
+    "static/media/logo.9c7c68a2.png": "/Portfolio-React/static/media/logo.9c7c68a2.png",
+    "static/media/weather.9f728ce6.png": "/Portfolio-React/static/media/weather.9f728ce6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b12e5184.js",
+    "static/js/2.facfe838.chunk.js",
+    "static/css/main.79dbbe42.chunk.css",
+    "static/js/main.b3b814db.chunk.js"
+  ]
+}
